@@ -8,6 +8,6 @@ The frontend is created with React, using also react router and axios. Bootstrap
 
 ### Backend
 
-Available here: 
+Available here: https://github.com/MsMauraJones/Product-inventory-backend
 
 The backend server user node.js express with jsonwebtoken for JWT authentication and authorization and Mongoose for interacting with a database on MongoDB Atlas. 
